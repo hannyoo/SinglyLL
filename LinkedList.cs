@@ -81,16 +81,7 @@ namespace SinglyLinkedList
             return curNode;
         }
 
-		public NodeClass GetIndexData(int index)
-		{
-			if(index<0)
-			{
-				return null;
-			}
-			NodeClass curNode = headNode;
-
-
-		}
+		
 
 
     }
